@@ -34,8 +34,8 @@ Olá! 👋🏼 Me chamo Isabella Monsalles Barbosa, tenho 18 anos e sou natural 
 <p>
 <div align="left">
   <a href ="https://github.com/IsaMon2">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsaMon2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaMon2&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsaMon2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaMon2&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 </p>
