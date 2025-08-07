@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Eu sou a Isabella Monsalles Barbosa</h1>
 
 - 🔭 Trabalho como AWS Developer Intern
-- 🌱 Estudando JavaScript
+- 🌱 Estudando na Fatec São Caetano do Sul - Antonio Russo
 - 😄 Pronouns: ela/dela
 
 <div>
