@@ -7,7 +7,6 @@ Olá! 👋🏼 Me chamo Isabella Monsalles Barbosa, tenho 18 anos e sou natural 
 <p align="left">
     <div align="left">
   <a href="https://www.linkedin.com/in/isabella-monsalles/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="https://www.instagram.com/isa.bm10/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   <a href="monsallesisabella@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </div>
